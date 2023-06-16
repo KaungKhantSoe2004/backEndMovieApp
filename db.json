@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "email": "kaungkhants892@gmail.com",
+      "password": "$2a$10$G6s/YeGJAfxxsnbHIOwo4.jBMx1ybbyjTUcAlggBytaKiKFZaurfa",
+      "id": 1
+    }
+  ],
+  "favorites": [
+    {
+      "Title": "The Superman/Aquaman Hour of Adventure",
+      "Year": "1967–1968",
+      "imdbID": "tt0231046",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q0NjRiYTAtNDJiZC00ODgyLWI4NDMtYzRmYjY3MjZjMmQ0XkEyXkFqcGdeQXVyNTQzMjAxMzA@._V1_SX300.jpg",
+      "id": 1
+    },
+    {
+      "Title": "Naruto",
+      "Year": "2021",
+      "imdbID": "tt5034838",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "id": 2
+    },
+    {
+      "Title": "Naruto",
+      "Year": "1998",
+      "imdbID": "tt0120685",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjFlOTI2OGQtMzg0YS00ZGE4LTkwMjEtZDUzYThlOTU5YjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "id": 3
+    },
+    {
+      "Title": "Shin Godzilla",
+      "Year": "2016",
+      "imdbID": "tt4262980",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ4ZmIzNWMtY2NiYi00MmM1LWFjMGQtMDE0Nzc1NzhjNjEyXkEyXkFqcGdeQXVyNDUwNzM4MzQ@._V1_SX300.jpg",
+      "id": 4
+    },
+    {
+      "Title": "Godzilla: Planet of the Monsters",
+      "Year": "2017",
+      "imdbID": "tt5979874",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzc1NjliZDktZjQ0ZS00OTY5LWJkYmItODU0MmQzZGYxNmQ3XkEyXkFqcGdeQXVyNTU1Nzc3NjA@._V1_SX300.jpg",
+      "id": 5
+    },
+    {
+      "Title": "Mothra vs. Godzilla",
+      "Year": "1964",
+      "imdbID": "tt0058379",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBkNjk0NDAtNDcxYy00NDI3LThjM2QtYjRhOTY1NmM0N2NhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "id": 6
+    },
+    {
+      "Title": "Godzilla: Final Wars",
+      "Year": "2004",
+      "imdbID": "tt0399102",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTg1MTE5Nl5BMl5BanBnXkFtZTgwMDY4MzU4MzE@._V1_SX300.jpg",
+      "id": 7
+    },
+    {
+      "Title": "Lois & Clark: The New Adventures of Superman",
+      "Year": "1993–1997",
+      "imdbID": "tt0106057",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
+      "id": 8
+    },
+    {
+      "Title": "Batman: The Killing Joke",
+      "Year": "2016",
+      "imdbID": "tt4853102",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdjZTliODYtNWExMi00NjQ1LWIzN2MtN2Q5NTg5NTk3NzliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "id": 9
+    },
+    {
+      "Title": "Mabuta no haha",
+      "Year": "1962",
+      "imdbID": "tt0122595",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDczMzI0ZDEtNmU2My00ODE3LWI5N2QtZDgyMGQ2MGYxOWI3XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX300.jpg",
+      "id": 12
+    },
+    {
+      "Title": "The Umbrella Academy",
+      "Year": "2019–2023",
+      "imdbID": "tt1312171",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "id": 13
+    }
+  ]
+}
